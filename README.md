@@ -23,11 +23,10 @@ Integration with External APIs
 ### Clone the project
 
 ```bash
-
-clone the project:
 git clone https://github.com/anjpai/library_management_system.git
 
-Move into the library_management_system folder:
+### Move into the library_management_system folder
+```bash
 cd library_management_system
 
 Install backend dependencies (server side):
