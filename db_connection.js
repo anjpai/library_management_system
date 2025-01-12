@@ -1,9 +1,9 @@
-/*const mongoose = require("mongoose")
+const mongoose = require("mongoose")
 
 require("dotenv").config();
 
 mongoose.set("strictQuery", false);
-const URL = process.env.DB_URL*/
+const URL = process.env.DB_URL
 try {
 
     mongoose.connect(URL, {
