@@ -20,6 +20,10 @@ Integration with External APIs
 
 # Run Locally
 
+### Clone the project
+
+```bash
+
 clone the project:
 git clone https://github.com/anjpai/library_management_system.git
 
