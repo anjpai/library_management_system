@@ -25,7 +25,10 @@ Library Management System using the MERN stack is a comprehensive full-stack web
 ```bash
 git clone https://github.com/anjpai/library_management_system.git
 
+```markdown
 ### Move into the LibraryManagement folder
+
+```bash
 cd library_management_system
 
 ### Move into the server and install node dependencies for the server side
