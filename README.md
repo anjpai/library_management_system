@@ -4,19 +4,19 @@ Library Management System using the MERN stack is a comprehensive full-stack web
 
 # Technology Stack
 
-**Frontend:** React, Redux  
-**Backend:** Node.js, Express.js  
-**Authentication:** Passport.js
+**Frontend:**  React, Redux  
+**Backend:**  Node.js, Express.js  
+**Authentication:**  Passport.js
 
 # Key Features 
 
-User Registration & Authentication
-Book Catalog Management
-Advanced Book Search & Filtering
-Borrowing & Return Tracking
-User Profile Management
-Admin Dashboard for Management
-Integration with External APIs
+- User Registration & Authentication
+- Book Catalog Management
+- Advanced Book Search & Filtering
+- Borrowing & Return Tracking
+- User Profile Management
+- Admin Dashboard for Management
+- Integration with External APIs
 
 # Run Locally
 
