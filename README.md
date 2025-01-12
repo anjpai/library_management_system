@@ -21,31 +21,26 @@ Integration with External APIs
 # Run Locally
 
 ### Clone the project
-
-```bash
 git clone https://github.com/anjpai/library_management_system.git
 
-### Move into the library_management_system folder
-```bash
+### Move into the LibraryManagement folder
 cd library_management_system
 
-Install backend dependencies (server side):
+### Move into the server and install node dependencies for the server side
 cd server
 npm install
 
-Install frontend dependencies (React client side):
+### Install React dependencies in the client folder
 cd ..
 cd client
 npm install
 
-Run the Node.js backend in one terminal:
+### Run Node backend in another terminal
 cd ..
 cd server
 npm start
 
-Run the React frontend in a second terminal:
+### Run React frontend in a third terminal
 cd ..
 cd client
 npm start
-
-
