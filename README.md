@@ -62,4 +62,7 @@ npm start
 
 ![Library Management System Feature Screenshot](https://github.com/anjpai/library_management_system/blob/main/public/Screenshot%202025-01-12%20173743.png?raw=true)
 
+### Cart Page
+![Library Management System Detail Screenshot](https://github.com/anjpai/library_management_system/blob/main/public/Screenshot%202025-01-12%20173755.png?raw=true)
+
 
