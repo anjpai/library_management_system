@@ -1,7 +1,7 @@
-const express = require("express")
-const cors = require("cors");
-const passport = require("passport");
-const cookieParser = require("cookie-parser");
+//const express = require("express")
+//const cors = require("cors");
+//const passport = require("passport");
+//const cookieParser = require("cookie-parser");
 // const bcrypt = require("bcryptjs");
 const session = require("express-session");
 const bodyParser = require("body-parser");
@@ -47,12 +47,8 @@ require("./config/passportConfig")(passport);
 
 //Route
 
-app.use(routes);
 
 
 
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-    console.log("Server Is Connected to Port " + PORT);
-})
+
