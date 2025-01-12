@@ -44,3 +44,7 @@ npm start
 cd ..
 cd client
 npm start
+
+## Authors
+
+@anjpai
