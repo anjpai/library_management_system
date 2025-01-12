@@ -52,6 +52,7 @@ npm start
 ### Landing Page
 ![Library Management System Screenshot](https://github.com/anjpai/library_management_system/blob/main/public/Screenshot%202025-01-12%20170936.png?raw=true)
 
-### Home Page
+### Login Page
+![Library Management System Screenshot](https://github.com/anjpai/library_management_system/blob/main/public/Screenshot%202025-01-12%20171006.png?raw=true)
 
 
