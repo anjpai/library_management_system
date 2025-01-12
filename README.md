@@ -48,3 +48,6 @@ npm start
 ## Authors
 
 - [@anjpai](https://github.com/anjpai)
+
+![Library Management System Screenshot](https://github.com/anjpai/library_management_system/blob/main/public/Screenshot%202025-01-12%20170936.png?raw=true)
+
