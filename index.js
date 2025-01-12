@@ -47,7 +47,7 @@ require("./config/passportConfig")(passport);
 
 //Route
 
-app.use(routes);
+
 
 
 
