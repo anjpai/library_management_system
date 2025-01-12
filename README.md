@@ -20,10 +20,10 @@ Integration with External APIs
 
 # Run Locally
 
-### Clone the project
+Clone the project
 git clone https://github.com/anjpai/library_management_system.git
 
-### Move into the LibraryManagement folder
+Move into the LibraryManagement folder
 cd library_management_system
 
 ### Move into the server and install node dependencies for the server side
